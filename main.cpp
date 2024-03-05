@@ -1,7 +1,6 @@
 #include <iostream>
 #include "Stack.h"
 #include "Node.h"
-#include "Stack.cpp" 
 
 int main() {
     // Create a stack object
